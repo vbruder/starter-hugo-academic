@@ -35,7 +35,13 @@ organizations:
   - name: Visualization Research Center University of Stuttgart
     url: https://www.visus.uni-stuttgart.de/
 education:
-  courses: []
+  courses:
+    - course: M.Sc. in Computer Science
+      institution: University of Stuttgart, Germany
+      year: 2016
+    - course: B.Sc. in Computer Science
+      institution: Osnabrück University, Germany
+      year: 2013
 email: ""
 superuser: true
 highlight_name: true
