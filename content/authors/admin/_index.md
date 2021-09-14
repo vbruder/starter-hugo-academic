@@ -34,7 +34,13 @@ social:
     label: DBLP
 organizations: []
 education:
-  courses: []
+  courses:
+    - course: M.Sc. in Computer Science
+      institution: University of Stuttgart
+      year: 2016
+    - course: B.Sc. in Computer Science
+      institution: Osnabrück University
+      year: 2013
 email: ""
 superuser: true
 highlight_name: true
