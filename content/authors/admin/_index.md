@@ -24,6 +24,12 @@ social:
     icon_pack: ai
     icon: ai-orcid
     label: ORCID
+  - display:
+      header: false
+    link: https://dblp.uni-trier.de/pers/hd/b/Bruder:Valentin
+    icon_pack: ai
+    icon: ai-dblp
+    label: DBLP
 organizations: []
 education:
   courses: []
