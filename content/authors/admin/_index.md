@@ -31,7 +31,9 @@ social:
     icon_pack: ai
     icon: ai-dblp
     label: DBLP
-organizations: []
+organizations:
+  - name: Visualization Research Center University of Stuttgart
+    url: https://www.visus.uni-stuttgart.de/
 education:
   courses:
     - course: M.Sc. in Computer Science
