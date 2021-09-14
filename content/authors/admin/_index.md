@@ -9,32 +9,24 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=vZSi9RIAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/vbruder
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+    link: https://www.linkedin.com/in/vbruder
+  - display:
+      header: false
+    link: https://orcid.org/0000-0001-5063-4894
+    icon_pack: ai
+    icon: ai-orcid
+    label: ORCID
+organizations: []
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  courses: []
 email: ""
 superuser: true
 highlight_name: true
