@@ -30,7 +30,7 @@ social:
     label: DBLP
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:vbruder@gmail.com
 organizations:
   - name: Visualization Research Center University of Stuttgart
     url: https://www.visus.uni-stuttgart.de/
