@@ -12,9 +12,11 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=vZSi9RIAAAAJ
+    label: Google Scholar
   - icon: github
     icon_pack: fab
     link: https://github.com/vbruder
+    label: GitHub
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/vbruder
