@@ -1,12 +1,39 @@
-+++
-title = "On Evaluating Runtime Performance of Interactive Visualizations"
-date = 2019-02-01
-authors = ["Valentin Bruder", "Christoph Müller", "Steffen Frey", "Thomas Ertl"]
-publication_types = ["2"]
-abstract = "As our field matures, evaluation of visualization techniques has extended from reporting runtime performance to studying user behavior. Consequently, many methodologies and best practices for user studies have evolved. While maintaining interactivity continues to be crucial for the exploration of large data sets, no similar methodological foundation for evaluating runtime performance has been developed. Our analysis of 50 recent visualization papers on new or improved techniques for rendering volumes or particles indicates that   only a very limited set of parameters like different data sets, camera paths, viewport sizes, and GPUs are investigated, which make comparison with other techniques or generalization to other parameter ranges at least questionable. To derive a deeper understanding of qualitative runtime behavior and quantitative parameter dependencies, we developed a framework for the most exhaustive performance evaluation of volume and particle visualization techniques that we are aware of, including millions of measurements on ten different GPUs. This paper reports on our insights from statistical analysis of this data, discussing independent and linear parameter behavior and non-obvious effects. We give recommendations for best practices when evaluating runtime performance of scientific visualization applications, which can serve as a starting point for more elaborate models of performance quantification. "
-featured = true
-publication = "*IEEE Transactions on Visualization and Computer Graphics*"
-tags = ["Rendering (computer graphics);Performance evaluation;Data visualization;Computational modeling;Runtime;Benchmark testing;Best practices;Performance evaluation;scientific visualization;volume rendering;particle rendering"]
-doi = "10.1109/TVCG.2019.2898435"
-+++
-
+---
+title: On Evaluating Runtime Performance of Interactive Visualizations
+publication_types:
+  - "2"
+authors:
+  - Valentin Bruder
+  - Christoph Müller
+  - Steffen Frey
+  - Thomas Ertl
+doi: 10.1109/TVCG.2019.2898435
+publication: "*IEEE Transactions on Visualization and Computer Graphics*"
+abstract: "As our field matures, evaluation of visualization techniques has
+  extended from reporting runtime performance to studying user behavior.
+  Consequently, many methodologies and best practices for user studies have
+  evolved. While maintaining interactivity continues to be crucial for the
+  exploration of large data sets, no similar methodological foundation for
+  evaluating runtime performance has been developed. Our analysis of 50 recent
+  visualization papers on new or improved techniques for rendering volumes or
+  particles indicates that   only a very limited set of parameters like
+  different data sets, camera paths, viewport sizes, and GPUs are investigated,
+  which make comparison with other techniques or generalization to other
+  parameter ranges at least questionable. To derive a deeper understanding of
+  qualitative runtime behavior and quantitative parameter dependencies, we
+  developed a framework for the most exhaustive performance evaluation of volume
+  and particle visualization techniques that we are aware of, including millions
+  of measurements on ten different GPUs. This paper reports on our insights from
+  statistical analysis of this data, discussing independent and linear parameter
+  behavior and non-obvious effects. We give recommendations for best practices
+  when evaluating runtime performance of scientific visualization applications,
+  which can serve as a starting point for more elaborate models of performance
+  quantification. "
+featured: false
+tags:
+  - Rendering (computer graphics);Performance evaluation;Data
+    visualization;Computational modeling;Runtime;Benchmark testing;Best
+    practices;Performance evaluation;scientific visualization;volume
+    rendering;particle rendering
+date: 2019-02-01
+---
