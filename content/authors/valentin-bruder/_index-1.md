@@ -40,4 +40,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I'm a doctoral researcher at the University of Stuttgart Visualization Research Center (VISUS) and part of the collaborative research center [SFB-TRR 161](http://www.sfbtrr161.de/research/project_a02/index.html) on quantitative methods for visual computing. I develop new methods to assess, model, and predict performance of visual computing systems. Thereby, I focus on applications from the domain of scientific visualization.
+I'm a doctoral researcher at the University of Stuttgart Visualization Research Center (VISUS) and part of the collaborative research center [SFB-TRR 161](http://www.sfbtrr161.de/research/project_a02/index.html) on quantitative methods for visual computing. I develop new methods to assess, model, and predict performance of visual computing systems. Focus on scientific visualization.
