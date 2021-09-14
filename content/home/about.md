@@ -5,5 +5,5 @@ headless: true
 weight: 20
 title: ""
 active: true
-author: valentin-bruder
+author: admin
 ---
