@@ -5,9 +5,6 @@ avatar_filename: avatar.jpg
 bio: ""
 interests: []
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=vZSi9RIAAAAJ
@@ -23,14 +20,17 @@ social:
       header: false
     link: https://orcid.org/0000-0001-5063-4894
     icon_pack: ai
-    icon: ai-orcid
+    icon: orcid
     label: ORCID
   - display:
       header: false
     link: https://dblp.uni-trier.de/pers/hd/b/Bruder:Valentin
     icon_pack: ai
-    icon: ai-dblp
+    icon: dblp
     label: DBLP
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
 organizations:
   - name: Visualization Research Center University of Stuttgart
     url: https://www.visus.uni-stuttgart.de/
